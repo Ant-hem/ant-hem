@@ -1,5 +1,7 @@
-# Antoine Hémery - @Ant-hem
+# Hi there 👋
 
-Hi there 👋, I'm Antoine - welcome to my GH page!
+![Twitter Follow](https://img.shields.io/twitter/follow/Antoine_hy?style=for-the-badge)
 
-I'm currently working at [Algolia](https://www.algolia.com/) as a C++ Software Engineer on the core search engine 👨‍💻. Before that I was a C# Software Engineer  consultant, mostly in banking companies.
+<a href="https://github.com/Ant-hem"><img alt="Git Stats" src="https://github-readme-stats.vercel.app/api?username=Ant-hem&show_icons=true" align="right" height="150" /></a>
+
+👨‍💻 I'm Antoine, Software Engineer, currently working at [Algolia](https://www.algolia.com/) as a C++ Software Engineer on the core search engine.
